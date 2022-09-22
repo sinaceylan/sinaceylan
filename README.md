@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinaceylan&label=Profile%20views&color=0e75b6&style=flat" alt="sinaceylan" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, Flutter.**
 
 - 📫 How to reach me **sina-ceylan@hotmail.com**
 
