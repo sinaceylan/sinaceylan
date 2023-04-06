@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hüseyin Sina Ceylan</h1>
 <h3 align="center">I am a Computer Engineering student.</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinaceylan&label=Profile%20views&color=0e75b6&style=flat" alt="sinaceylan" /> </p>
